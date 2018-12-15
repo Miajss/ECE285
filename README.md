@@ -9,7 +9,9 @@ This project includes two models for performing semantic segmentation on a datas
 The required dependencies can be installed using the following commands:
  
 pip install bs4 --user
+
 pip install lxml
+
 pip install tifffile --user
 
 =======================
